@@ -52,5 +52,5 @@ This project is licensed under the **MIT License**.
 
 ---
 💡 **Author:** [Salil Sri](https://github.com/Salil-Sri)  
-🌐 **Live Demo:** [Better.com Clone](https://vercel.com/salil-srivastavas-projects/better-com)
+🌐 **Live Demo:** [Better.com Clone](https://better-com-kappa.vercel.app/)
 
